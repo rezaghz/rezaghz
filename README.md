@@ -1,6 +1,6 @@
 # Welcome 👋
 
-Hey there, I'm Reza Ghasemzadeh a Bakend Developer from Amol, IRAN 🇮🇷
+Hey there, I'm Reza Ghasemzadeh a Backend Developer from Amol, IRAN 🇮🇷
 
 ---
 
