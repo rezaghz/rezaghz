@@ -18,7 +18,7 @@ A passionate Full-stack Developer with expertise in:
 - **[Dastyar](https://dastyar.io)**
 - **[Dasteaval](https://dasteaval.news)**
 - **[7learn](https://7learn.com)**
-- **[FinlyWealth](https://rezaghz.com)**
+- **[FinlyWealth](https://finlywealth.com)**
 - **[Persian Ad Block](https://rezaghz.com/projects/persian-ad-block)**
 - **[Lotous](https://rezaghz.com/projects/loutos)**
 
